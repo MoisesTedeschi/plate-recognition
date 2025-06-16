@@ -1,4 +1,4 @@
-# Projeto: Reconhecimento de Placas com Abertura de Porta
+# Reconhecimento de Placas com Abertura de Porta
 
 Este projeto utiliza Python, OpenCV e EasyOCR para capturar imagens de uma câmera, reconhecer placas veiculares e validar se estão autorizadas para permitir a abertura de uma porta (simulada).
 
